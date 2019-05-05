@@ -12,3 +12,16 @@
   background-color: #fff;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
+@import 'header.scss';
+@import 'content.scss';
+@import 'most-style.scss';
+@import 'footer.scss';
+html,
+body{
+  font-family: 'Proxima nova', sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #ffffff;
+}
+

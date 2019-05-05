@@ -10667,3 +10667,26 @@ a.text-dark:focus {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+.nav-little {
+  background-color: #f5f3f3;
+  width: 100%;
+}
+
+.nav {
+  width: 100%;
+}
+
+.nav .nav-big {
+  width: 100%;
+  background-color: #d5d5d5;
+}
+
+html,
+body {
+  font-family: "Proxima nova", sans-serif;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #ffffff;
+}
+
